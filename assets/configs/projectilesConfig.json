@@ -1,7 +1,7 @@
 {
   "laser": {
     "dmg": 1000,
-    "spdLen": 10,
+    "speed": 10,
     "dmgType": "energy",
     "tex": "tribe:laser",
     "texSz": 0.7,
